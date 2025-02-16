@@ -1,3 +1,7 @@
+# creadentials file
+.cread
+
+
 # Logs
 logs
 *.log
